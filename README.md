@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Daniil Kokolov&font=Fira%20Code&center=true&duration=4000&pause=1000" alt="Daniil Kokolov">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋Hello there! I'm Daniil Kokolov&font=Fira%20Code&center=true&duration=2000&pause=2000" alt="Daniil Kokolov">
 </h1>
 
 ![](https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*zx7LTI_ECSAAAAAAAAAAAABkARQnAQ)
