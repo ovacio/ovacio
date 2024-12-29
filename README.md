@@ -162,8 +162,8 @@
     </td>
 </table>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ovacio&theme=react&show_icons=true&locale=en&layout=compact" alt="ovacio" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ovacio&theme=react&show_icons=true&locale=en&layout=compact" alt="ovacio" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ovacio&theme=react&" alt="ovacio" /></p>
+<p><img align="ce nter" src="https://github-readme-streak-stats.herokuapp.com/?user=ovacio&theme=react&" alt="ovacio" /></p>
 
 <br>
